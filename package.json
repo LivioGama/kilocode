@@ -1,0 +1,12 @@
+{
+  "name": "kilocode",
+  "version": "0.1.0",
+  "description": "AI model provider and model name display tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": ["ai", "models", "providers"],
+  "author": "LivioGama",
+  "license": "MIT"
+}
